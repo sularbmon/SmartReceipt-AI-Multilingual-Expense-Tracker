@@ -1,6 +1,6 @@
 # SmartReceipt – AI Multilingual Expense Tracker
 
-SmartReceipt is an AI-powered receipt scanning app that extracts expenses from physical receipts written in English, Japanese, or Myanmar. It automatically categorizes spending and generates summaries to help track your monthly expenses.
+SmartReceipt is an AI-powered receipt scanning app that extracts expenses from physical receipts written in English, Japanese, or Burmese languages. It automatically categorizes spending and generates summaries to help track your monthly expenses.
 
 🚀 Features
 - 📸 Scan receipts using phone camera or upload image/PDF
