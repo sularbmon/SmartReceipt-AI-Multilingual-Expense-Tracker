@@ -2,7 +2,7 @@
 
 SmartReceipt is an AI-powered receipt scanning app that extracts expenses from physical receipts written in English, Japanese, or Myanmar. It automatically categorizes spending and generates summaries to help track your monthly expenses.
 
-## 🚀 Features
+🚀 Features
 - 📸 Scan receipts using phone camera or upload image/PDF
 - 🧠 OCR with multilingual support (English, Japanese, Myanmar)
 - 🧾 Automatic extraction of key info (vendor, date, amount)
@@ -10,22 +10,22 @@ SmartReceipt is an AI-powered receipt scanning app that extracts expenses from p
 - 📊 Monthly summaries and charts
 - 💾 Offline and optional cloud sync support
 
-## 🧱 Tech Stack (Planned)
+🧱 Tech Stack (Planned)
 - Frontend: Flutter or .NET MAUI (cross-platform mobile app)
 - OCR: EasyOCR or Google Vision API
 - NLP: Python (Regex, transformers, LLM-based models)
 - Backend: FastAPI or Flask
 - Database: SQLite (local), Firebase (cloud optional)
 
-## 📌 Project Status
+📌 Project Status
 🟨 Planning stage — gathering tools and designing architecture.
 
-## 📂 To Do
+📂 To Do
 - [ ] Finalize tech stack
 - [ ] Build OCR + info extraction prototype
 - [ ] Design UI wireframes
 - [ ] Implement expense database
 - [ ] Build summary dashboard
 
-## 👤 Author
-**Su** – AI/ML Engineer
+👤 Author
+**Su Larb Mon** – AI/ML Engineer
