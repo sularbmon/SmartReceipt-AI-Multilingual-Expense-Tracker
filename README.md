@@ -4,7 +4,7 @@ SmartReceipt is an AI-powered receipt scanning app that extracts expenses from p
 
 🚀 Features
 - 📸 Scan receipts using phone camera or upload image/PDF
-- 🧠 OCR with multilingual support (English, Japanese, Myanmar)
+- 🧠 OCR with multilingual support (English, Japanese, Burmese)
 - 🧾 Automatic extraction of key info (vendor, date, amount)
 - 🗂️ Categorize expenses using AI
 - 📊 Monthly summaries and charts
